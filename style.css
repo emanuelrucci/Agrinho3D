@@ -97,32 +97,3 @@ nav .menu {
   gap: 15px;
   margin-top: 20px;
 }
-
-.seis-imagens {
-  padding: 40px 20px;
-  text-align: center;
-}
-
-.grid-destaques {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-}
-
-.grid-destaques .item {
-  text-align: center;
-  width: 150px;
-}
-
-.grid-destaques img {
-  width: 100%;
-  border-radius: 8px;
-}
-
-footer {
-  background-color: #444;
-  color: #fff;
-  text-align: center;
-  padding: 20px;
-}
